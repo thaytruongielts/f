@@ -1,0 +1,5 @@
+{
+  "name": "Luyện Từ Vựng Tiếng Anh Flyers",
+  "description": "Một ứng dụng web giúp học sinh cấp độ Flyers luyện tập từ vựng tiếng Anh. Người dùng sẽ được cung cấp một từ tiếng Việt và cần nhập câu trả lời bằng tiếng Anh. Ứng dụng có gần 20 trang, mỗi trang 10 từ và sẽ chấm điểm sau mỗi trang.",
+  "requestFramePermissions": []
+}
